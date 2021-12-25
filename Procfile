@@ -1,1 +1,1 @@
-worker: /bin /bash /start
+worker: /bin/bash /start
